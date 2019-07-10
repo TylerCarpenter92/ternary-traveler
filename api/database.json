@@ -16,5 +16,14 @@
       "visa_required": false
     }
   ],
-  "interests": []
+  "interests": [
+    {
+      "id": 1,
+      "placeId": 1,
+      "name": "Local Market",
+      "description": "Local market where you can purchase local products and try the local food",
+      "cost": 0.0,
+      "review": ""
+    }
+  ]
 }
