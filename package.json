@@ -1,12 +1,12 @@
 {
-  "name": "your-app-name-here",
+  "name": "Ternary-Traveler",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "webpack-dev-server --mode development"
   },
   "keywords": [],
-  "author": "Your Name Here",
+  "author": "Tyler Carpenter",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.5",
