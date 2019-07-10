@@ -90,4 +90,4 @@ As a user, I should be able to enter in an point of interest, and associate it w
 ## Technical Requirements
 
 1. The application should be built using Webpack to assist your development process.
-1. For persistent data storage, use [json-server](https://github.com/typicode/json-server). (edited) 
+1. For persistent data storage, use [json-server](https://github.com/typicode/json-server). (edited)

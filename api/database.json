@@ -1,24 +1,37 @@
 {
-  "posts": [
+  "places": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Italy",
+      "visa_required": false
     },
     {
       "id": 2,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Switzerland",
+      "visa_required": true
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "visa_required": false
     }
   ],
-  "comments": [
+  "interests": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "placeId": 1,
+      "name": "Local Market",
+      "description": "Local market where you can purchase local products and try the local food",
+      "cost": 0,
+      "review": ""
+    },
+    {
+      "placeId": "1",
+      "name": "ajsdf",
+      "description": "sadflj;k",
+      "cost": "sl;j",
+      "review": "adsfljk",
+      "id": 4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
